@@ -33,6 +33,7 @@ This repository tracks top **SaaS platforms** and **open-source repositories** d
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [❤️ Support & Sponsorship](#%EF%B8%8F-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
@@ -96,6 +97,25 @@ Contributions are very welcome! Help us keep this directory accurate and up to d
 2. Add or update entries in `README.md` following the tabular format.
 3. Ensure pricing, trial limits, and repository details are factual.
 4. Create a Pull Request with a clear title.
+
+---
+
+## ❤️ Support & Sponsorship
+
+Thank you for visiting **Awesome AI Sales Assistant**! 🌟
+
+If you find this repository helpful for your research, sales stack evaluation, or open-source AI builds, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork it** and contribute new tools, updates, or fixes.
+- 📢 **Share it** with fellow sales engineers, developers, and revenue ops teams!
+- ☕ **Buy Me a Coffee / Sponsor**: If you'd like to support ongoing open-source maintenance, feel free to sponsor via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007)!
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20%E2%9D%A4-Buy%20Me%20A%20Coffee-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
