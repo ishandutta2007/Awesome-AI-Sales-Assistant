@@ -1,6 +1,6 @@
 # Awesome-AI-Sales-Assistant
 
-## Top AI Sales Assistant Ecosystem
+### Top AI Sales Assistant Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Conversation Intelligence, Sales Coaching, Call Analysis, Revenue AI, Deal Insights & AI-Powered Sales Workflows*  
