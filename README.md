@@ -64,9 +64,9 @@ Commercial AI sales solutions deliver enterprise-grade call recording compliance
 
 Self-hosted and developer-first frameworks to build custom AI sales copilots, Whisper transcription pipelines, and open-source CRM AI layers.
 
-*Sorted by GitHub Stars_Count (Descending)* ⭐
+*Sorted by GitHub_Stars_Count (Descending)* ⭐
 
-| 📦 Repository | ⭐ GitHub Stars_Count | 📝 Description & Sales AI Use Case |
+| 📦 Repository | ⭐ GitHub_Stars_Count | 📝 Description & Sales AI Use Case |
 | :--- | :--- | :--- |
 | **[Twenty (twentyhq/twenty)](https://github.com/twentyhq/twenty)** 🚀 | <a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="twentyhq/twenty Stars"/></a> | Modern open-source CRM alternative to Salesforce/HubSpot with native AI agent SDK and extensible workflow hooks. |
 | **[ERPNext (frappe/erpnext)](https://github.com/frappe/erpnext)** 💼 | <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="frappe/erpnext Stars"/></a> | Enterprise 100% open-source ERP & CRM platform with AI/RPA automation pipelines for lead and order management. |
