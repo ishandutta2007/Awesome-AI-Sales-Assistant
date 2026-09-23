@@ -1,104 +1,118 @@
-# Awesome-AI-Sales-Assistant
+# Awesome AI Sales Assistant 🤖📈
 
-### Top AI Sales Assistant Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Sales Assistant Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Conversation Intelligence, Sales Coaching, Call Analysis, Revenue AI, Deal Insights & AI-Powered Sales Workflows*  
-**Last updated: September 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Sales-Assistant"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Sales-Assistant?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Sales-Assistant/stargazers"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Sales-Assistant?style=social" alt="GitHub forks"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Sales Assistants**. These tools analyze sales calls and emails, surface coaching insights, automate CRM updates, generate follow-ups, and help reps and managers improve win rates and forecast accuracy.
+### 🚀 Top AI Sales Assistant Ecosystem & Revenue Intelligence Tools
 
-**Examples** include Gong, Clari Copilot, People.ai, Salesloft, Outreach, Klue, Attention, Avoma, Regie.ai, and Scratchpad (the category leaders and adjacent revenue platforms).
-
-**Open-source emphasis**: Enterprise conversation intelligence and full revenue AI suites remain largely commercial. Open-source options include local AI sales assistants, open CRM + AI layers, call-insight workspaces, and research copilots. This section lists every significant relevant project found.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-
-- **[Gong](https://www.gong.io/)**  
-  Leading conversation intelligence platform that records and analyzes sales calls and emails, delivers coaching insights, deal risk signals, and revenue analytics.
-
-- **[Clari Copilot](https://www.clari.com/)**  
-  AI sales assistant and conversation intelligence within the Clari revenue platform—call capture, coaching, and deal inspection tied to forecasting.
-
-- **[People.ai](https://www.people.ai/)**  
-  Revenue AI platform that captures activity data, enriches CRM, and provides insights for sales, marketing, and customer success.
-
-- **[Salesloft, Outreach](https://www.salesloft.com/)**  
-  Sales engagement platforms with AI assistants for sequencing, coaching, conversation intelligence, and revenue workflow automation.
-
-- **[Avoma, Attention](https://www.avoma.com/)**  
-  Meeting and conversation intelligence tools focused on automatic notes, coaching, and CRM updates from sales and customer calls.
-
-- **[Regie.ai, Scratchpad, Klue](https://www.regie.ai/)**  
-  AI content and workflow assistants for sales (email/copy generation, deal workspace productivity) and competitive intelligence platforms used by sales teams.
-
-- **[Other commercial AI sales & revenue platforms](https://www.gong.io/)**  
-  Additional solutions spanning call AI, deal intelligence, and sales enablement automation.
-
-## Open-Source GitHub Projects
-
-- **[Open Customer Insights](https://github.com/Nutlope/open-customer-insights)**  
-  Open-source workspace for searching and chatting across call transcripts, support tickets, and Slack—with semantic search, company views, and optional Gong/Slack-style integrations.
-
-- **[OpenCloser](https://github.com/issacops/opencloser-v2)**  
-  Open-source, desktop AI sales platform aiming to run strategist, researcher, voice caller, coach, and manager roles locally—with CRM, call analysis, and coaching features.
-
-- **[Local AI sales automation / CRM structuring](https://github.com/Badal2706/sales-ai-automation)**  
-  Local AI sales assistant that turns conversations into structured CRM data and automated follow-ups using on-device or local LLMs.
-
-- **[SalesCopilot & similar research copilots](https://github.com/e-johnstonn/SalesCopilot)**  
-  Open AI sales assistants combining real-time transcription, live advice, knowledge-base retrieval, and post-call analysis (often LangChain + Whisper-based).
-
-- **[Open AI CRM platforms](https://github.com/WuKongOpenSource/AI_CRM)**  
-  Open-source AI CRM systems that combine customer records with conversational assistants for queries, task generation, and knowledge-base answers.
-
-- **[Macro CRM & modern open CRMs](https://github.com/search?q=open+source+CRM+AI)**  
-  Open CRM projects that embed AI agents for activity logging, follow-ups, and relationship context (e.g. Macro and similar AGPL projects).
-
-- **[Conversation intelligence building blocks](https://github.com/search?q=Whisper+transcription+OR+call+analytics+open+source)**  
-  Open transcription (Whisper and derivatives), diarization, and NLP pipelines that teams use to build custom call analysis.
-
-- **[Sales coaching & objection-handling agents](https://github.com/search?q=sales+coach+OR+objection+handling+AI+open+source)**  
-  Prototype agents for post-call debriefs, objection suggestions, and practice role-play.
-
-### Additional Strong Open-Source Options
-
-- **Call & customer insight workspaces**: Open Customer Insights for private search across transcripts and tickets.
-- **Local full-stack experiments**: OpenCloser and local sales automation MVPs for privacy-first setups.
-- **AI + CRM**: Open AI CRM projects that keep data self-hosted while adding conversational assistance.
-- **Composable stacks**: Whisper/diarization + LLM summary/coaching + CRM API writes for custom conversation intelligence.
-- Enterprise multi-team coaching, revenue forecasting integration, and large-scale call libraries remain commercial strengths.
-
-**Frameworks for building custom systems**:  
-Open transcription + LLM pipelines (Whisper family, LangChain/LlamaIndex, local or private models) plus an open CRM form a practical base.  
-Projects like **Open Customer Insights**, **OpenCloser**, and open AI CRMs show end-to-end patterns.  
-Commercial platforms (Gong, Clari Copilot, People.ai, Salesloft, Outreach, Avoma, etc.) deliver polished capture, coaching playbooks, manager workflows, and CRM depth at scale.  
-Many teams use commercial conversation intelligence for production sales orgs and open tools for internal experiments, privacy-sensitive calls, or custom coaching logic. Fully open stacks work when you control recording compliance and can maintain the pipeline.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Sales call recording and AI analysis involve privacy, consent, and employment-law considerations. Ensure lawful recording notices, data retention policies, and access controls before deploying any system.
-- Open-source tools offer data ownership and customization but require you to handle transcription accuracy, model quality, CRM integration, and security. Commercial platforms shift operational and compliance burden to the vendor. Validate accuracy and bias of coaching recommendations before relying on them for performance management.
+**A curated directory of SaaS platforms & open-source GitHub projects for AI-powered sales enablement, call intelligence, lead automation, and revenue forecasting.**  
+*Focused on Conversation Intelligence, Sales Coaching, Call Analysis, Revenue AI, Deal Insights & AI-Powered Sales Workflows.*  
+📅 **Last updated: September 2026**
 
 ---
 
-**Made for sales leaders, revenue operations, enablement teams, and builders of AI sales tools.**  
-Let's expand open options for transparent sales AI while recognizing the capture depth, coaching quality, and scale that leading commercial AI sales assistant platforms deliver.
+## 💡 Overview & Market Landscape
+
+This repository tracks top **SaaS platforms** and **open-source repositories** designed for **AI Sales Assistants**, **Conversation Intelligence**, and **Revenue Orchestration**. These platforms record and analyze sales calls, transcribe meetings, automate CRM entries, guide real-time objection handling, and deliver predictive revenue analytics.
+
+> 📊 **Estimated Market Size & Structure**:  
+> The global **AI Sales Assistant & Conversation Intelligence market size** is estimated at **$7.5 Billion** in 2026 and is projected to exceed **$22 Billion by 2032** (growing at a CAGR of ~19.5%).  
+> The sector is currently **moderately fragmented**, undergoing rapid consolidation where established sales engagement suites (e.g., Gong, Salesloft, Clari, Outreach) are competing against agile agentic AI startups (e.g., Attention, Regie.ai) and self-hosted open-source stacks.
+
+---
+
+## 📑 Table of Contents
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 🏢 SaaS & Commercial Platforms
+
+Commercial AI sales solutions deliver enterprise-grade call recording compliance, automated CRM sync, real-time coaching playbooks, and predictive deal forecasting.
+
+*Sorted by Company Revenue / Valuation (Descending)* 📊
+
+| 🏢 Platform | 💰 Pricing (Starting Tier) | 🎁 Free Tier Limit / Trial Details | 📊 Valuation / Annual Revenue (ARR) | 📌 Core Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Gong](https://www.gong.io/)** 🏆 | ~$1,200/user/year base + platform fees | No public free trial (Custom enterprise demo upon request) | **$4.5B Valuation** (~$500M ARR) | Enterprise conversation intelligence, sales call recording, AI deal risk analysis, revenue analytics. |
+| **[Clari Copilot](https://www.clari.com/)** 🔮 | ~$1,080/user/year (Package tier) | Custom evaluation trial upon approval | **$2.6B Valuation** (~$450M ARR) | Conversation intelligence integrated into Clari's revenue & deal forecasting platform. |
+| **[Outreach](https://www.outreach.io/)** ⚡ | ~$1,200/user/year (Seat + AI credits) | No public free trial (Guided enterprise trial) | **$4.4B Valuation** (~$300M ARR) | AI sales engagement, deal insights, automated sequences, call sentiment analysis. |
+| **[Salesloft](https://www.salesloft.com/)** 🎯 | ~$1,000/user/year (Essentials tier) | No public free trial (Custom sales quote & demo) | **$1.1B Valuation** (~$231M ARR) | Revenue workflow automation, call coaching, cadence management, conversation analytics. |
+| **[People.ai](https://www.people.ai/)** 🤖 | ~$600/user/year (Enterprise tier) | No public free trial (Demo on request) | **$1.1B Valuation** (~$63M ARR) | Automated CRM activity capture, buyer relationship mapping, AI sales coaching. |
+| **[Attention](https://www.attention.tech/)** 🎙️ | ~$950/user/year (Pro tier) | No public free trial (Sales-led demo) | **~$47M Funding** (4x YoY Revenue Growth) | Agentic AI sales assistant, automated CRM updates, real-time deal coaching. |
+| **[Klue](https://klue.com/)** ⚔️ | ~$15,000/year (Team starter package) | No public free trial (Demo on request) | **$81M Funding** (~$7M ARR) | Competitive intelligence platform for sales enablement and battlecard automation. |
+| **[Regie.ai](https://www.regie.ai/)** ✉️ | **$49/month** (Pro plan) | **Free Forever Plan** (250 AI credits/month included) | **$65.6M Funding** (Venture-Backed) | Generative AI sales outreach, personalized prospecting copy, autonomous sales agents. |
+| **[Scratchpad](https://scratchpad.com/)** 📝 | **$19/user/month** (Solo plan) | **Free Forever Plan** (Includes 100 free workspace credits/mo) | **$49.6M Funding** (~$10M ARR) | AI sales workspace for fast CRM updates, pipeline notes, and deal management. |
+| **[Avoma](https://www.avoma.com/)** 🧠 | **$19/user/month** (Starter plan) | **14-Day Free Trial** (Includes 300 recording mins/mo free tier) | **$15M Funding** (Venture-Backed) | AI meeting assistant, automatic call note-taking, CRM sync, conversation analytics. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Self-hosted and developer-first frameworks to build custom AI sales copilots, Whisper transcription pipelines, and open-source CRM AI layers.
+
+*Sorted by GitHub Star Count (Descending)* ⭐
+
+| 📦 Repository | ⭐ GitHub Star Count | 📝 Description & Sales AI Use Case |
+| :--- | :--- | :--- |
+| **[Twenty (twentyhq/twenty)](https://github.com/twentyhq/twenty)** 🚀 | <a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="twentyhq/twenty Stars"/></a> | Modern open-source CRM alternative to Salesforce/HubSpot with native AI agent SDK and extensible workflow hooks. |
+| **[ERPNext (frappe/erpnext)](https://github.com/frappe/erpnext)** 💼 | <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="frappe/erpnext Stars"/></a> | Enterprise 100% open-source ERP & CRM platform with AI/RPA automation pipelines for lead and order management. |
+| **[EspoCRM (espocrm/espocrm)](https://github.com/espocrm/espocrm)** 📊 | <a href="https://github.com/espocrm/espocrm/stargazers"><img src="https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white" alt="espocrm/espocrm Stars"/></a> | Open-source web CRM application with customizable sales lead tracking, email integration, and AI assistant modules. |
+| **[SalesGPT (filip-michalsky/SalesGPT)](https://github.com/filip-michalsky/SalesGPT)** 💬 | <a href="https://github.com/filip-michalsky/SalesGPT/stargazers"><img src="https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social&color=white" alt="filip-michalsky/SalesGPT Stars"/></a> | Context-aware open-source AI sales agent powered by LLMs for automated sales conversations and objection handling. |
+| **[CiviCRM (civicrm/civicrm-core)](https://github.com/civicrm/civicrm-core)** 🌐 | <a href="https://github.com/civicrm/civicrm-core/stargazers"><img src="https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white" alt="civicrm/civicrm-core Stars"/></a> | Open-source constituent relationship management system widely used for community engagement and donor sales workflows. |
+| **[SalesCopilot (e-johnstonn/SalesCopilot)](https://github.com/e-johnstonn/SalesCopilot)** 🎙️ | <a href="https://github.com/e-johnstonn/SalesCopilot/stargazers"><img src="https://img.shields.io/github/stars/e-johnstonn/SalesCopilot?style=social&color=white" alt="e-johnstonn/SalesCopilot Stars"/></a> | Real-time AI sales copilot combining Whisper audio transcription, LangChain knowledge retrieval, and live call advice. |
+| **[OpenCloser (issacops/opencloser-v2)](https://github.com/issacops/opencloser-v2)** 💻 | <a href="https://github.com/issacops/opencloser-v2/stargazers"><img src="https://img.shields.io/github/stars/issacops/opencloser-v2?style=social&color=white" alt="issacops/opencloser-v2 Stars"/></a> | Local desktop AI sales workspace designed to run sales strategist, coach, and caller roles locally for full privacy. |
+| **[Open Customer Insights (Nutlope/open-customer-insights)](https://github.com/Nutlope/open-customer-insights)** 🔍 | <a href="https://github.com/Nutlope/open-customer-insights/stargazers"><img src="https://img.shields.io/github/stars/Nutlope/open-customer-insights?style=social&color=white" alt="Nutlope/open-customer-insights Stars"/></a> | Open-source customer intelligence platform to search, filter, and chat across call transcripts and support tickets. |
+| **[Local Sales AI Automation (Badal2706/sales-ai-automation)](https://github.com/Badal2706/sales-ai-automation)** 🛠️ | <a href="https://github.com/Badal2706/sales-ai-automation/stargazers"><img src="https://img.shields.io/github/stars/Badal2706/sales-ai-automation?style=social&color=white" alt="Badal2706/sales-ai-automation Stars"/></a> | Privacy-focused local sales assistant converting call conversations into structured CRM records and automated follow-ups. |
+| **[Open AI CRM (WuKongOpenSource/AI_CRM)](https://github.com/WuKongOpenSource/AI_CRM)** 🤖 | <a href="https://github.com/WuKongOpenSource/AI_CRM/stargazers"><img src="https://img.shields.io/github/stars/WuKongOpenSource/AI_CRM?style=social&color=white" alt="WuKongOpenSource/AI_CRM Stars"/></a> | Open-source AI CRM system combining customer records with conversational LLM assistants for task generation and search. |
+
+---
+
+## 🛠️ Key Building Blocks for Custom Sales AI
+
+To build a custom open-source conversation intelligence pipeline, combine these modular frameworks:
+1. **Speech-to-Text & Diarization**: [Whisper](https://github.com/openai/whisper) or [pyannote-audio](https://github.com/pyannote/pyannote-audio) for call transcription and speaker labeling.
+2. **LLM Orchestration**: [LangChain](https://github.com/langchain-ai/langchain) or [LlamaIndex](https://github.com/run-llama/llama_index) for retrieving battlecard knowledge and generating meeting notes.
+3. **Open CRM Backend**: [Twenty](https://github.com/twentyhq/twenty) or [ERPNext](https://github.com/frappe/erpnext) for storing lead stages and interaction histories.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are very welcome! Help us keep this directory accurate and up to date:
+1. Fork this repository.
+2. Add or update entries in `README.md` following the tabular format.
+3. Ensure pricing, trial limits, and repository details are factual.
+4. Create a Pull Request with a clear title.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Sales-Assistant&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Sales-Assistant&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated list** for informational and educational purposes only.
+- Sales call recording, automated transcription, and AI coaching involve privacy, wiretapping laws, and data regulation requirements (GDPR, CCPA, SOC2). Ensure proper consent before implementing call capture software.
+- All product names, logos, and trademarks belong to their respective owners.
+
+---
+
+<p align="center">
+  <b>Maintained by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and the Open Source Sales Tech Community.</b>
+</p>
