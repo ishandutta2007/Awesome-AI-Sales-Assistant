@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Sales-Assistant"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Sales-Assistant?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Sales-Assistant"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Sales-Assistant?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Sales-Assistant/stargazers"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Sales-Assistant?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -64,9 +64,9 @@ Commercial AI sales solutions deliver enterprise-grade call recording compliance
 
 Self-hosted and developer-first frameworks to build custom AI sales copilots, Whisper transcription pipelines, and open-source CRM AI layers.
 
-*Sorted by GitHub Star Count (Descending)* ⭐
+*Sorted by GitHub Stars_Count (Descending)* ⭐
 
-| 📦 Repository | ⭐ GitHub Star Count | 📝 Description & Sales AI Use Case |
+| 📦 Repository | ⭐ GitHub Stars_Count | 📝 Description & Sales AI Use Case |
 | :--- | :--- | :--- |
 | **[Twenty (twentyhq/twenty)](https://github.com/twentyhq/twenty)** 🚀 | <a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="twentyhq/twenty Stars"/></a> | Modern open-source CRM alternative to Salesforce/HubSpot with native AI agent SDK and extensible workflow hooks. |
 | **[ERPNext (frappe/erpnext)](https://github.com/frappe/erpnext)** 💼 | <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="frappe/erpnext Stars"/></a> | Enterprise 100% open-source ERP & CRM platform with AI/RPA automation pipelines for lead and order management. |
