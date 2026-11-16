@@ -57,6 +57,7 @@ Commercial AI sales solutions deliver enterprise-grade call recording compliance
 | **[Regie.ai](https://www.regie.ai/)** ✉️ | **$49/month** (Pro plan) | **Free Forever Plan** (250 AI credits/month included) | **$65.6M Funding** (Venture-Backed) | Generative AI sales outreach, personalized prospecting copy, autonomous sales agents. |
 | **[Scratchpad](https://scratchpad.com/)** 📝 | **$19/user/month** (Solo plan) | **Free Forever Plan** (Includes 100 free workspace credits/mo) | **$49.6M Funding** (~$10M ARR) | AI sales workspace for fast CRM updates, pipeline notes, and deal management. |
 | **[Avoma](https://www.avoma.com/)** 🧠 | **$19/user/month** (Starter plan) | **14-Day Free Trial** (Includes 300 recording mins/mo free tier) | **$15M Funding** (Venture-Backed) | AI meeting assistant, automatic call note-taking, CRM sync, conversation analytics. |
+| **[Realtimer](https://realtimer.ai/)** 💬 | **€29/month** (Pro plan, AI included, 25 hours of calls a month) | **Free Forever Plan** (unlimited sessions with your own API keys) + 7-day Pro trial | **Not disclosed** (Realtimer OÜ, Estonia) | Live answers to client questions from your own price lists and documents during Zoom, Meet, Teams or WhatsApp calls, no bot in the meeting, notes after the call. |
 
 ---
 
